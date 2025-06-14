@@ -3,6 +3,9 @@ This is a full-stack Gym Management application built using the MERN stack (Mong
 Features : BMI Calculator to help users monitor fitness progress, Email functionality for notifications and support, Responsive design for mobile and desktop devices 
 
 Technologies 
+
 Frontend : React.js, HTML5, CSS3, JavaScript
+
 Backend: Node.js, Express.js
+
 Additional: Nodemailer for email services
